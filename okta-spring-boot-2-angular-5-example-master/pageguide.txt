@@ -1,0 +1,7 @@
+Trang chinh:
+https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot
+
+Trang tham khao
+http://www.devglan.com/spring-boot/spring-boot-angular-example
+
+http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
